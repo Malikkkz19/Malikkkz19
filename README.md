@@ -1,14 +1,6 @@
 Hi, I'm Malik 👋
 I have "excellent" knowledge in backend development on Java. In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
- 
-
-KEY POINTS
-creator and author of romankh3 telegram channel. Subscribe to recieve messages about my open-source activities.
-Write posts about software development.
-Improving my algorithms skiils on leetcode
-
-
 🛠 TECHNICAL STACK
 BACK-END
 Java/Kotlin//COBOL languages
