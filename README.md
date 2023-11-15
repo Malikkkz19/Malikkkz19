@@ -2,6 +2,8 @@ Hi, I'm Malik 👋
 I have "excellent" knowledge in backend development on Java. In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
 
 🛠 TECHNICAL STACK
+
+
 BACK-END
 Java/Kotlin//COBOL languages
 MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase, Lombok
