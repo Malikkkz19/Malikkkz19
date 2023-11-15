@@ -3,6 +3,7 @@ I have "excellent" knowledge in backend development on Java. In general worked w
 
 🛠 TECHNICAL STACK
 
+------------------------------------------------------------------------
 
 BACK-END
 Java/Kotlin//COBOL languages
